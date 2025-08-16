@@ -10,7 +10,7 @@ A simple static web application that mimics the UI of Google Drive. Built with H
 - Static deployment (no backend logic)
 
 ## Demo
-Live site: [https://drive-clone-29079.web.app/](https://drive-clone-29079.web.app/)
+Live site: [https://rohanraaj2.github.io/Google-Drive-Clone/](https://rohanraaj2.github.io/Google-Drive-Clone/)
 
 ## Project Structure
 
